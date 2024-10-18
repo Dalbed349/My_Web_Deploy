@@ -13,33 +13,33 @@
     },
     {
       "id": 3,
-      "title": "Project 2",
+      "title": "Project 3",
       "previewImage": "/assets/salwebScreenshot.png",
-      "link": "/portfolio/project2"
+      "link": "/portfolio/project3"
     },
     {
       "id": 4,
-      "title": "Project 2",
+      "title": "Project 4",
       "previewImage": "/assets/heatmap.png",
-      "link": "/portfolio/project2"
+      "link": "/portfolio/project4"
     },
     {
       "id": 5,
-      "title": "Project 2",
-      "previewImage": "/assets/project2.jpg",
-      "link": "/portfolio/project2"
+      "title": "Project 5",
+      "previewImage": "/assets/project3.jpg",
+      "link": "/portfolio/project5"
     },
     {
       "id": 6,
       "title": "Project 2",
-      "previewImage": "/assets/project2.jpg",
-      "link": "/portfolio/project2"
+      "previewImage": "/assets/project4.jpg",
+      "link": "/portfolio/project6"
     },
     {
       "id": 7,
       "title": "Project 2",
-      "previewImage": "/assets/project1.jpg",
-      "link": "/portfolio/project2"
+      "previewImage": "/assets/project5.jpg",
+      "link": "/portfolio/project7"
     },
     {
       "id": 8,
