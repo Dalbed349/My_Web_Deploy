@@ -1,15 +1,37 @@
 [
     {
       "id": 1,
-      "title": "Project 1",
+      "title": "Project1 water",
       "previewImage": "/assets/1.png",
-      "link": "/portfolio/project1"
+      "link": "/portfolio/project1",
+      "hub": "https://github.com/Dalbed349/AlabamaWater",
+      "description": "descriptiondescriptiondescriptiondescr iptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptio ndescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescription",
+      "details": [{
+        "heading":"head",
+        "content":"content"
+      },
+      {
+        "heading":"head",
+        "content":"content"
+      }
+    ]
     },
     {
       "id": 2,
       "title": "Project 2",
       "previewImage": "/assets/materialsproject.jpeg",
-      "link": "/portfolio/project2"
+      "link": "/portfolio/project2",
+      "hub": "https://github.com/Dalbed349/AlabamaWater",
+      "description": "description",
+      "details": [{
+        "heading":"head",
+        "content":"content"
+      },
+      {
+        "heading":"head",
+        "content":"content"
+      }
+    ]
     },
     {
       "id": 3,
