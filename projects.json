@@ -39,11 +39,30 @@
     },
     {
       "id": 2,
-      "title": "Project 2",
+      "title": "Sculpture Materials",
       "previewImage": "/assets/materialsproject.jpeg",
       "link": "/portfolio/project2",
       "hub": "https://github.com/Dalbed349/AlabamaWater",
-      "description": "description",
+      "description": "Smithsonian Open Access API",
+      "images":[{
+        "title":"Project 2",
+        "url":"/assets/1.png"
+      },{
+        "title":"Project 2",
+        "url":"/assets/water1.png"
+      },
+      {
+        "title":"Project 2",
+        "url":"/assets/water1.png"
+      },
+      {
+        "title":"Project 2",
+        "url":"/assets/water1.png"
+      },
+      {
+        "title":"Project 2",
+        "url":"/assets/water1.png"
+      }],
       "details": [{
         "heading":"head",
         "content":"content"
@@ -53,41 +72,215 @@
         "content":"content"
       }
     ]
-    },
-    {
+    },    {
       "id": 3,
-      "title": "Project 3",
+      "title": "Salvatore Federico Contemporary Artist",
+      "subtitle":"",
       "previewImage": "/assets/salwebScreenshot.png",
-      "link": "/portfolio/project3"
-    },
-    {
+      "images":[{
+        "title":"Project 2",
+        "url":"/assets/salwebScreenshot.png"
+      },{
+        "title":"Project 2",
+        "url":"/assets/salwebScreenshot.png"
+      },
+      {
+        "title":"Project 2",
+        "url":"/assets/salwebScreenshot.png"
+      },
+      {
+        "title":"Project 2",
+        "url":"/assets/salwebScreenshot.png"
+      },
+      {
+        "title":"Project 2",
+        "url":"/assets/salwebScreenshot.png"
+      }],
+      "link": "/portfolio/project3",
+      "hub": "https://github.com/Dalbed349/AlabamaWater",
+      "description": "\nSalvatore Federico Contemporary Artist\n\nWeb Work\n\n Artist Portfolio",
+      "details": [{
+        "heading":"head",
+        "content":"content"
+      },
+      {
+        "heading":"head",
+        "content":"content"
+      }
+    ]
+    },    {
       "id": 4,
-      "title": "Project 4",
+      "title": "Heatmap - player performance",
+      "subtitle":"",
       "previewImage": "/assets/heatmap.png",
-      "link": "/portfolio/project4"
-    },
-    {
+      "images":[{
+        "title":"Project 2",
+        "url":"/assets/heatmap.png"
+      },{
+        "title":"Project 2",
+        "url":"/assets/heatmap.png"
+      },
+      {
+        "title":"Project 2",
+        "url":"/assets/heatmap.png"
+      }],
+      "link": "/portfolio/project4",
+      "hub": "https://github.com/Dalbed349/AlabamaWater",
+      "description": "\nAlabama’s climate and geographic history makes it one of the most ecologically diverse states in the United States.\n\nAt the same time, a history of  industrial accidents and abuse has led to disasters that have harmed everything from ponds to populations of cities to coastlines.\n\n Since 1998 stricter water monitoring policies have been mandated in an attempt to control the human and environmental harm caused by pollutants. This project seeks to analyze the progress that has been made during the past 20 years of water quality testing. Data from the Alabama Department of Environmental Management (ADEM) is used to visualize the scope of water contamination in each river basin by size, cause, and source.",
+      "details": [{
+        "heading":"head",
+        "content":"content"
+      },
+      {
+        "heading":"head",
+        "content":"content"
+      }
+    ]
+    },    {
       "id": 5,
-      "title": "Project 5",
+      "title": "DWA Web",
+      "subtitle":"",
       "previewImage": "/assets/project3.jpg",
-      "link": "/portfolio/project5"
-    },
-    {
+      "images":[{
+        "title":"Project 5",
+        "url":"/assets/1.png"
+      },{
+        "title":"Project 2",
+        "url":"/assets/water1.png"
+      },
+      {
+        "title":"Project 2",
+        "url":"/assets/water1.png"
+      },
+      {
+        "title":"Project 2",
+        "url":"/assets/water1.png"
+      },
+      {
+        "title":"Project 2",
+        "url":"/assets/water1.png"
+      }],
+      "link": "/portfolio/project5",
+      "hub": "https://github.com/Dalbed349/AlabamaWater",
+      "description": "\nAlabama’s climate and geographic history makes it one of the most ecologically diverse states in the United States.\n\nAt the same time, a history of  industrial accidents and abuse has led to disasters that have harmed everything from ponds to populations of cities to coastlines.\n\n Since 1998 stricter water monitoring policies have been mandated in an attempt to control the human and environmental harm caused by pollutants. This project seeks to analyze the progress that has been made during the past 20 years of water quality testing. Data from the Alabama Department of Environmental Management (ADEM) is used to visualize the scope of water contamination in each river basin by size, cause, and source.",
+      "details": [{
+        "heading":"head",
+        "content":"content"
+      },
+      {
+        "heading":"head",
+        "content":"content"
+      }
+    ]
+    },    {
       "id": 6,
-      "title": "Project 2",
+      "title": "AA Map - Data Structures",
+      "subtitle":"",
       "previewImage": "/assets/project4.jpg",
-      "link": "/portfolio/project6"
-    },
-    {
+      "images":[{
+        "title":"Project 2",
+        "url":"/assets/1.png"
+      },{
+        "title":"Project 2",
+        "url":"/assets/water1.png"
+      },
+      {
+        "title":"Project 2",
+        "url":"/assets/water1.png"
+      },
+      {
+        "title":"Project 2",
+        "url":"/assets/water1.png"
+      },
+      {
+        "title":"Project 2",
+        "url":"/assets/water1.png"
+      }],
+      "link": "/portfolio/project1",
+      "hub": "https://github.com/Dalbed349/AlabamaWater",
+      "description": "d source.",
+      "details": [{
+        "heading":"head",
+        "content":"content"
+      },
+      {
+        "heading":"head",
+        "content":"content"
+      }
+    ]
+    },    {
       "id": 7,
-      "title": "Project 2",
+      "title": "StyleGan 3- Training Runs",
+      "subtitle":"",
       "previewImage": "/assets/project5.jpg",
-      "link": "/portfolio/project7"
-    },
-    {
+      "images":[{
+        "title":"Project 2",
+        "url":"/assets/1.png"
+      },{
+        "title":"Project 2",
+        "url":"/assets/water1.png"
+      },
+      {
+        "title":"Project 2",
+        "url":"/assets/water1.png"
+      },
+      {
+        "title":"Project 2",
+        "url":"/assets/water1.png"
+      },
+      {
+        "title":"Project 2",
+        "url":"/assets/water1.png"
+      }],
+      "link": "/portfolio/project1",
+      "hub": "https://github.com/Dalbed349/AlabamaWater",
+      "description": "\nAlabama’s climate and geographic history makes it one of the most ecologically diverse states in the United States.\n\nAt the same time, a history of  industrial accidents and abuse has led to disasters that have harmed everything from ponds to populations of cities to coastlines.\n\n Since 1998 stricter water monitoring policies have been mandated in an attempt to control the human and environmental harm caused by pollutants. This project seeks to analyze the progress that has been made during the past 20 years of water quality testing. Data from the Alabama Department of Environmental Management (ADEM) is used to visualize the scope of water contamination in each river basin by size, cause, and source.",
+      "details": [{
+        "heading":"head",
+        "content":"content"
+      },
+      {
+        "heading":"head",
+        "content":"content"
+      }
+    ]
+    },    {
       "id": 8,
-      "title": "Project 2",
-      "previewImage": "/assets/project2.jpg",
-      "link": "/portfolio/project2"
+      "title": "Realtime Sensor",
+      "subtitle":"",
+      "previewImage": "/assets/SensorFinal.jpeg",
+      "images":[{
+        "title":"Project 2",
+        "url":"/assets/1.png"
+      },{
+        "title":"Project 2",
+        "url":"/assets/water1.png"
+      },
+      {
+        "title":"Project 2",
+        "url":"/assets/water1.png"
+      },
+      {
+        "title":"Project 2",
+        "url":"/assets/water1.png"
+      },
+      {
+        "title":"Project 2",
+        "url":"/assets/water1.png"
+      }],
+      "link": "/portfolio/project1",
+      "hub": "https://github.com/Dalbed349/AlabamaWater",
+      "description": "\nAlabama’s climate and geographic history makes it one of the most ecologically diverse states in the United States.\n\nAt the same time, a history of  industrial accidents and abuse has led to disasters that have harmed everything from ponds to populations of cities to coastlines.\n\n Since 1998 stricter water monitoring policies have been mandated in an attempt to control the human and environmental harm caused by pollutants. This project seeks to analyze the progress that has been made during the past 20 years of water quality testing. Data from the Alabama Department of Environmental Management (ADEM) is used to visualize the scope of water contamination in each river basin by size, cause, and source.",
+      "video":"/demo.mp4",
+      "details": [{
+        "heading":"head",
+        "content":"content"
+      },
+      {
+        "heading":"head",
+        "content":"content"
+      }
+    ]
     }
+
   ]
