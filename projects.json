@@ -1,11 +1,31 @@
 [
     {
       "id": 1,
-      "title": "Project1 water",
+      "title": "20 Years of Water",
+      "subtitle":"",
       "previewImage": "/assets/1.png",
+      "images":[{
+        "title":"Project 2",
+        "url":"/assets/1.png"
+      },{
+        "title":"Project 2",
+        "url":"/assets/water1.png"
+      },
+      {
+        "title":"Project 2",
+        "url":"/assets/water1.png"
+      },
+      {
+        "title":"Project 2",
+        "url":"/assets/water1.png"
+      },
+      {
+        "title":"Project 2",
+        "url":"/assets/water1.png"
+      }],
       "link": "/portfolio/project1",
       "hub": "https://github.com/Dalbed349/AlabamaWater",
-      "description": "descriptiondescriptiondescriptiondescr iptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptio ndescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescription",
+      "description": "\nAlabama’s climate and geographic history makes it one of the most ecologically diverse states in the United States.\n\nAt the same time, a history of  industrial accidents and abuse has led to disasters that have harmed everything from ponds to populations of cities to coastlines.\n\n Since 1998 stricter water monitoring policies have been mandated in an attempt to control the human and environmental harm caused by pollutants. This project seeks to analyze the progress that has been made during the past 20 years of water quality testing. Data from the Alabama Department of Environmental Management (ADEM) is used to visualize the scope of water contamination in each river basin by size, cause, and source.",
       "video":"/demo.mp4",
       "details": [{
         "heading":"head",
