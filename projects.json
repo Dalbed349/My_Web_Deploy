@@ -196,7 +196,7 @@
         "title":"Project 2",
         "url":"/assets/water1.png"
       }],
-      "link": "/portfolio/project1",
+      "link": "/portfolio/project6",
       "hub": "https://github.com/Dalbed349/AlabamaWater",
       "description": "d source.",
       "details": [{
@@ -232,9 +232,9 @@
         "title":"Project 2",
         "url":"/assets/water1.png"
       }],
-      "link": "/portfolio/project1",
+      "link": "/portfolio/project7",
       "hub": "https://github.com/Dalbed349/AlabamaWater",
-      "description": "\nAlabama’s climate and geographic history makes it one of the most ecologically diverse states in the United States.\n\nAt the same time, a history of  industrial accidents and abuse has led to disasters that have harmed everything from ponds to populations of cities to coastlines.\n\n Since 1998 stricter water monitoring policies have been mandated in an attempt to control the human and environmental harm caused by pollutants. This project seeks to analyze the progress that has been made during the past 20 years of water quality testing. Data from the Alabama Department of Environmental Management (ADEM) is used to visualize the scope of water contamination in each river basin by size, cause, and source.",
+      "description": "wip",
       "details": [{
         "heading":"head",
         "content":"content"
@@ -268,10 +268,83 @@
         "title":"Project 2",
         "url":"/assets/water1.png"
       }],
-      "link": "/portfolio/project1",
+      "link": "/portfolio/project8",
+      "hub": "https://github.com/Dalbed349/AlabamaWater",
+      "description": "",
+      "details": [{
+        "heading":"head",
+        "content":"content"
+      },
+      {
+        "heading":"head",
+        "content":"content"
+      }
+    ]
+    },
+    {
+      "id": 9,
+      "title": "Unhealthy Lifestyles USA",
+      "subtitle":"",
+      "previewImage": "/assets/rfinalsnip.png",
+      "images":[{
+        "title":"Project 2",
+        "url":"/assets/1.png"
+      },{
+        "title":"Project 2",
+        "url":"/assets/water1.png"
+      },
+      {
+        "title":"Project 2",
+        "url":"/assets/water1.png"
+      },
+      {
+        "title":"Project 2",
+        "url":"/assets/water1.png"
+      },
+      {
+        "title":"Project 2",
+        "url":"/assets/water1.png"
+      }],
+      "link": "/portfolio/project9",
       "hub": "https://github.com/Dalbed349/AlabamaWater",
       "description": "\nAlabama’s climate and geographic history makes it one of the most ecologically diverse states in the United States.\n\nAt the same time, a history of  industrial accidents and abuse has led to disasters that have harmed everything from ponds to populations of cities to coastlines.\n\n Since 1998 stricter water monitoring policies have been mandated in an attempt to control the human and environmental harm caused by pollutants. This project seeks to analyze the progress that has been made during the past 20 years of water quality testing. Data from the Alabama Department of Environmental Management (ADEM) is used to visualize the scope of water contamination in each river basin by size, cause, and source.",
-      "video":"/demo.mp4",
+      "details": [{
+        "heading":"head",
+        "content":"content"
+      },
+      {
+        "heading":"head",
+        "content":"content"
+      }
+    ]
+    },
+    {
+      "id": 10,
+      "title": "Shunga-Smithsonian",
+      "subtitle":"",
+      "previewImage": "/assets/shunga.png",
+      "images":[{
+        "title":"Project 2",
+        "url":"/assets/1.png"
+      },{
+        "title":"Project 2",
+        "url":"/assets/water1.png"
+      },
+      {
+        "title":"Project 2",
+        "url":"/assets/water1.png"
+      },
+      {
+        "title":"Project 2",
+        "url":"/assets/water1.png"
+      },
+      {
+        "title":"Project 2",
+        "url":"/assets/water1.png"
+      }],
+      "link": "/portfolio/project10",
+      "hub": "https://github.com/Dalbed349/QualitativeProjectMajorStudio1/tree/main",
+      "description": "a",
       "details": [{
         "heading":"head",
         "content":"content"
@@ -282,5 +355,7 @@
       }
     ]
     }
+
+
 
   ]
