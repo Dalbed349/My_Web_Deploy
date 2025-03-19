@@ -6,22 +6,22 @@
       "previewImage": "/assets/water/1.png",
       "images":[{
         "title":"Project 2",
-        "url":"/assets/water1.png"
+        "url":"/assets/water/water1.png"
       },{
+        "title":"Project 2",
+        "url":"/assets/water/2.png"
+      },
+      {
         "title":"Project 2",
         "url":"/assets/water/1.png"
       },
       {
         "title":"Project 2",
-        "url":"/assets/water1.png"
+        "url":"/assets/water/water2.png"
       },
       {
         "title":"Project 2",
-        "url":"/assets/water1.png"
-      },
-      {
-        "title":"Project 2",
-        "url":"/assets/water1.png"
+        "url":"/assets/water/5.png"
       }],
       "link": "/portfolio/project1",
       "hub": "https://github.com/Dalbed349/AlabamaWater",
@@ -43,24 +43,12 @@
       "title": "Sculpture Materials",
       "previewImage": "/assets/materials/materialsproject.jpeg",
       "link": "/portfolio/project2",
-      "hub": "https://github.com/Dalbed349/AlabamaWater",
+      "hub": "https://github.com/Dalbed349/MajorStudio1",
       "description": "Smithsonian Open Access API",
       "images":[{
         "title":"Project 2",
         "url":"/assets/1.png"
       },{
-        "title":"Project 2",
-        "url":"/assets/water1.png"
-      },
-      {
-        "title":"Project 2",
-        "url":"/assets/water1.png"
-      },
-      {
-        "title":"Project 2",
-        "url":"/assets/water1.png"
-      },
-      {
         "title":"Project 2",
         "url":"/assets/water1.png"
       }],
@@ -75,7 +63,7 @@
     ]
     },    {
       "id": 3,
-      "title": "Salvatore Federico Contemporary Artist",
+      "title": "Salvatore Federico Web",
       "subtitle":"",
       "previewImage": "/assets/Sal_Web/salwebScreenshot.png",
       "images":[{
@@ -111,23 +99,22 @@
     ]
     },    {
       "id": 4,
-      "title": "Heatmap - player performance",
+      "title": "Heatmap - Player Performance",
       "subtitle":"",
-      "previewImage": "/assets/heatmap.png",
+      "previewImage": "/assets/Naxx/heatmap2.png",
       "images":[{
         "title":"Project 2",
-        "url":"/assets/heatmap.png"
+        "url":"/assets/Naxx/heatmap.png"
       },{
         "title":"Project 2",
-        "url":"/assets/heatmap.png"
-      },
-      {
+        "url":"/assets/Naxx/heatmap3.png"
+      },{
         "title":"Project 2",
-        "url":"/assets/heatmap.png"
+        "url":"/assets/Naxx/heatmap4.jpeg"
       }],
       "link": "/portfolio/project4",
-      "hub": "https://github.com/Dalbed349/AlabamaWater",
-      "description": "\nAlabama’s climate and geographic history makes it one of the most ecologically diverse states in the United States.\n\nAt the same time, a history of  industrial accidents and abuse has led to disasters that have harmed everything from ponds to populations of cities to coastlines.\n\n Since 1998 stricter water monitoring policies have been mandated in an attempt to control the human and environmental harm caused by pollutants. This project seeks to analyze the progress that has been made during the past 20 years of water quality testing. Data from the Alabama Department of Environmental Management (ADEM) is used to visualize the scope of water contamination in each river basin by size, cause, and source.",
+      "hub": "https://github.com/Dalbed349/HeatMap_WoWPerformance/tree/master",
+      "description": "\n Percentile Rankings by Class separated by Encounter\n",
       "details": [{
         "heading":"head",
         "content":"content"
@@ -141,29 +128,25 @@
       "id": 5,
       "title": "DWA Web",
       "subtitle":"",
-      "previewImage": "/assets/project3.jpg",
+      "previewImage": "/assets/DWA_Web/1.png",
       "images":[{
-        "title":"Project 5",
-        "url":"/assets/1.png"
+        "title":"Selection",
+        "url":"/assets/DWA_Web/project3.jpg"
       },{
         "title":"Project 2",
-        "url":"/assets/water1.png"
+        "url":"/assets/DWA_Web/2.png"
       },
       {
         "title":"Project 2",
-        "url":"/assets/water1.png"
+        "url":"/assets/DWA_Web/3.png"
       },
       {
         "title":"Project 2",
-        "url":"/assets/water1.png"
-      },
-      {
-        "title":"Project 2",
-        "url":"/assets/water1.png"
+        "url":"/assets/DWA_Web/4.png"
       }],
       "link": "/portfolio/project5",
-      "hub": "https://github.com/Dalbed349/AlabamaWater",
-      "description": "\nAlabama’s climate and geographic history makes it one of the most ecologically diverse states in the United States.\n\nAt the same time, a history of  industrial accidents and abuse has led to disasters that have harmed everything from ponds to populations of cities to coastlines.\n\n Since 1998 stricter water monitoring policies have been mandated in an attempt to control the human and environmental harm caused by pollutants. This project seeks to analyze the progress that has been made during the past 20 years of water quality testing. Data from the Alabama Department of Environmental Management (ADEM) is used to visualize the scope of water contamination in each river basin by size, cause, and source.",
+      "hub": "https://donaldalberti.com/#/",
+      "description": "\nDonald Alberti Contemporary Artist\n\nWeb Work\n\n Artist Portfolio ",
       "details": [{
         "heading":"head",
         "content":"content"
@@ -181,33 +164,11 @@
       "images":[{
         "title":"Project 2",
         "url":"/assets/1.png"
-      },{
-        "title":"Project 2",
-        "url":"/assets/water1.png"
-      },
-      {
-        "title":"Project 2",
-        "url":"/assets/water1.png"
-      },
-      {
-        "title":"Project 2",
-        "url":"/assets/water1.png"
-      },
-      {
-        "title":"Project 2",
-        "url":"/assets/water1.png"
       }],
       "link": "/portfolio/project6",
       "hub": "https://github.com/Dalbed349/AlabamaWater",
-      "description": "d source.",
-      "details": [{
-        "heading":"head",
-        "content":"content"
-      },
-      {
-        "heading":"head",
-        "content":"content"
-      }
+      "description": "Map of AA meetings around NYC - Data scraped from publically available websites. AWS RDS, mapbox, node.js ",
+      "details": [
     ]
     },    {
       "id": 7,
@@ -308,7 +269,7 @@
       }],
       "link": "/portfolio/project9",
       "hub": "https://github.com/Dalbed349/AlabamaWater",
-      "description": "\nAlabama’s climate and geographic history makes it one of the most ecologically diverse states in the United States.\n\nAt the same time, a history of  industrial accidents and abuse has led to disasters that have harmed everything from ponds to populations of cities to coastlines.\n\n Since 1998 stricter water monitoring policies have been mandated in an attempt to control the human and environmental harm caused by pollutants. This project seeks to analyze the progress that has been made during the past 20 years of water quality testing. Data from the Alabama Department of Environmental Management (ADEM) is used to visualize the scope of water contamination in each river basin by size, cause, and source.",
+      "description": "\nA Statistical Overview at Unhealthy Lifestyle Habits in the United States",
       "details": [{
         "heading":"head",
         "content":"content"
@@ -323,25 +284,13 @@
       "id": 10,
       "title": "Shunga-Smithsonian",
       "subtitle":"",
-      "previewImage": "/assets/shunga.png",
+      "previewImage": "/assets/Shunga/shunga.png",
       "images":[{
         "title":"Project 2",
-        "url":"/assets/1.png"
+        "url":"/assets/Shunga/shunga.png"
       },{
         "title":"Project 2",
-        "url":"/assets/water1.png"
-      },
-      {
-        "title":"Project 2",
-        "url":"/assets/water1.png"
-      },
-      {
-        "title":"Project 2",
-        "url":"/assets/water1.png"
-      },
-      {
-        "title":"Project 2",
-        "url":"/assets/water1.png"
+        "url":"/assets/Shunga/shunga2.png"
       }],
       "link": "/portfolio/project10",
       "hub": "https://github.com/Dalbed349/QualitativeProjectMajorStudio1/tree/main",
@@ -352,7 +301,7 @@
       },
       {
         "heading":"head",
-        "content":"content"
+        "content": "Linear transformation that adjusts the data to match the desired mean and standard deviation, in this case selecting an assortment of images to match a general rating. It can be represented as:\n new_value = (desired_sd * (original_value - original_mean) / original_sd) + desired_mean"
       }
     ]
     }
